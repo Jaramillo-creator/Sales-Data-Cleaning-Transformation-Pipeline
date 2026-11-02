@@ -1,4 +1,9 @@
 ## Sales Data Cleaning & Standardization Project
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.8-green)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
 ## 📌 Project Overview
 This project focuses on performing data cleaning, text standardization, outlier treatment, and data type conversion on a messy sales dataset (`Messy_data (1).csv`). Using **Python** and **Pandas** in Google Colab, the raw dataset was audited, cleaned of quality defects, and transformed into a standardized, analysis-ready dataset saved as `cleaned_sales_dataset.csv`.
