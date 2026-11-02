@@ -1,4 +1,4 @@
-Sales Data Cleaning & Standardization Project
+## Sales Data Cleaning & Standardization Project
 
 ## 📌 Project Overview
 This project focuses on performing data cleaning, text standardization, outlier treatment, and data type conversion on a messy sales dataset (`Messy_data (1).csv`). Using **Python** and **Pandas** in Google Colab, the raw dataset was audited, cleaned of quality defects, and transformed into a standardized, analysis-ready dataset saved as `cleaned_sales_dataset.csv`.
